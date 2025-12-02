@@ -14,6 +14,9 @@ React 18
 TypeScript
 Tailwind CSS
 Lucide React for icons
+
+
+
 Project Structure
 src/
 ├── components/
