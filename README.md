@@ -36,13 +36,16 @@ The first player to get 3 of their marks in a row (horizontally, vertically, or 
 If all 9 squares are filled and no player has 3 marks in a row, the game is a draw
 Winning combinations are highlighted
 Game statistics are tracked and displayed
+
+
 Getting Started
 Prerequisites
 Node.js (v14 or higher)
 npm or yarn
 Installation
-Clone the repository:
 
+
+Clone the repository:
 git clone https://github.com/yourusername/devsecops-demo.git
 cd devsecops-demo
 
