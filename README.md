@@ -40,8 +40,8 @@ Clone the repository:
 
 git clone https://github.com/yourusername/devsecops-demo.git
 cd devsecops-demo
-Install dependencies:
 
+Install dependencies:
 npm install
 # or
 yarn
